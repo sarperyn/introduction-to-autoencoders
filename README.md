@@ -1,6 +1,6 @@
 # A Brief Introduction to Autoencoders
 
-Autoencoders are neural networks that tries to find general representations of the data with minimizing the given loss function between its input and output. With some modification on the architecture and loss functions we can enhance its capabilities. Resources below will prodive you further information. Especially, Ian Goodfellow's chapters are highly recommended for the theory and motivation.
+Autoencoders are neural networks that try to find general representations of the data with minimizing the given loss function between its input and output. With some modification on the architecture and loss functions we can enhance its capabilities. Resources below will prodive you further information. Especially, Ian Goodfellow's chapters are highly recommended for the theory and motivation.
 
 ## Further reading
 
